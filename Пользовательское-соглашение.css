@@ -1,0 +1,200 @@
+ .u-section-1 {
+  min-height: 2013px;
+}
+
+.u-section-1 .u-rotation-parent-1 {
+  width: 1300px;
+  height: 1854px;
+  margin: 10px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 1854px;
+  height: 1300px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 1053px;
+  height: 1745px;
+  background-image: none;
+  margin: -1837px auto 0 calc(((100% - 1140px) / 2) + 24px);
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin: -1715px calc(((100% - 1140px) / 2) + 107px) 0 calc(((100% - 1140px) / 2) + 67px);
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: -453px calc(((100% - 1140px) / 2) + 107px) 0 calc(((100% - 1140px) / 2) + 67px);
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  margin: -875px -316px 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  margin: -353px calc(((100% - 1140px) / 2) + -1325px) 60px calc(((100% - 1140px) / 2) + -1399px);
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1140px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 940px;
+    height: 981px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 1341px;
+    height: 940px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 940px;
+    margin-top: -964px;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 940px) / 2));
+    margin-right: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2));
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: calc(((100% - 940px) / 2));
+    margin-left: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 920px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 720px;
+    height: 761px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 1027px;
+    height: 720px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 720px;
+    margin-top: -744px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 720px) / 2));
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 740px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 540px;
+    height: 581px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 770px;
+    height: 540px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 540px;
+    margin-top: -564px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 540px) / 2));
+    margin-right: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 540px;
+  }
+
+  .u-section-1 .u-rotation-parent-1 {
+    width: 340px;
+    height: 381px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 485px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+    margin-top: -364px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: calc(((100% - 340px) / 2));
+    margin-right: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}
